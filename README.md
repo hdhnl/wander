@@ -1,3 +1,2 @@
 # wander
-Web crawling
-and discussions
+discussions
